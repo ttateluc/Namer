@@ -1,3 +1,5 @@
+#Bugs
+
 Not Critical: The import statement import static android.service.controls.ControlsProviderService.TAG; is unused and can be removed.
 
 Not Critical: The class-level variable public static TextView tv_text2; could be made private because it's not used outside the class.
